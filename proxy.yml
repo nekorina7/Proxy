@@ -1,0 +1,4 @@
+mode: server
+local_port: 27886
+remote_host: 42.116.129.71
+remote_port: 27886
